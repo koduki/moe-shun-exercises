@@ -4,11 +4,16 @@
         "exercises":[
           {"question":"ボクと契約して、魔法少女になってよ!", "answer":"Make a contract with me, and become a Magical Girl!"},
           {"question":"問おう。貴方が私のマスターか?", "answer":"I ask you. Are you my master?"},
-          {"question":"私はその幻想を壊そうと思います。", "answer":"I'll destroy the illusion of yours!"}
+          {"question":"私はその幻想を壊そうと思います。", "answer":"I'll destroy the illusion of yours!"},
+          {"question":"今のはメラゾーマ出はありません。メラです。", "answer":"It is not Kafrizzle. It is my frizz."},
+          {"question":"パンツじゃないから恥ずかしくないもん！", "answer":"These are not panties. They are pants! No problem."},
+          {"question":"まったく、小学生は最高だぜ！", "answer":"Jeez, elementary kids are amazing!"},
+          {"question":"「見せよう」ガッツは静かに言う。「最高とは何なのか、を」", "answer":"I'll Show you,\"guts cool say, \"what is SAIKO.\""}
+
         ]
       },
       {
-        "title":"Part1 - 中2レベル2",
+        "title":"Part2 - 中2レベル2",
         "exercises":[
           {"question":"ボクと契約して、魔法少女になってよ!", "answer":"Make a contract with me, and become a Magical Girl!"},
           {"question":"問おう。貴方が私のマスターか?", "answer":"I ask you. Are you my master?"},
