@@ -5,19 +5,29 @@
           {"question":"ボクと契約して、魔法少女になってよ!", "answer":"Make a contract with me, and become a Magical Girl!"},
           {"question":"問おう。貴方が私のマスターか?", "answer":"I ask you. Are you my master?"},
           {"question":"私はその幻想を壊そうと思います。", "answer":"I'll destroy the illusion of yours!"},
-          {"question":"今のはメラゾーマ出はありません。メラです。", "answer":"It is not Kafrizzle. It is my frizz."},
+          {"question":"今のはメラゾーマではありません。メラです。", "answer":"It is not Kafrizzle. It is my frizz."},
           {"question":"パンツじゃないから恥ずかしくないもん！", "answer":"These are not panties. They are pants! No problem."},
           {"question":"まったく、小学生は最高だぜ！", "answer":"Jeez, elementary kids are amazing!"},
           {"question":"「見せよう」ガッツは静かに言う。「最高とは何なのか、を」", "answer":"I'll Show you,\"guts cool say, \"what is SAIKO.\""}
-
+          {"question":"まったく、小学生は最高だぜ！", "answer":"Jeez, elementary kids are amazing!"},
+          {"question":"さすがはお兄様です", "answer":"That's great as expected, my brother."},
+          {"question":"これは、ゲームであっても、遊びではない", "answer":"Even if this is a game, it is not play."}
         ]
       },
       {
         "title":"Part2 - 中2レベル2",
         "exercises":[
-          {"question":"ボクと契約して、魔法少女になってよ!", "answer":"Make a contract with me, and become a Magical Girl!"},
-          {"question":"問おう。貴方が私のマスターか?", "answer":"I ask you. Are you my master?"},
-          {"question":"私はその幻想を壊そうと思います。", "answer":"I'll destroy the illusion of yours!"}
+          {"question":"これはゾンビですか？　それとも魔法少女ですか？　はい。魔法少女です", "answer":"Is this a zombie or a magical girl? "}
+          {"question":"情けなさだけならグローバル級ね！", "answer":"Only your miserableness is world-class!"},
+          {"question":"完全にフルハウス", "answer":"It is perfectly \"Full House\"."},
+          {"question":"空のあれらは何ですか？　パンティーの群れです", "answer":"What are those in the sky? They are \"flying panties\"."},
+          {"question":"ジャッジメントですの！", "answer":"I am a \"Judgement\"."},
+          {"question":"もう、何も怖くない", "answer":"I'm not afraid of anything anymore."},
+          {"question":"ルカはとてもかわいい。だが、男だ。", "answer":"Ruka is very cute. But he is a man."},
+          {"question":"彼女はいつもにニコニコあなたの後ろに居ます", "answer":"She is always behind you with keeping smile."},
+          {"question":"市民、幸福ですか？ はい、私は完璧に幸福です", "answer":"Citizen, are you happy? Yes, I am perfectly happy."},
+          {"question":"幸福なのは義務なんです♪", "answer":"Happiness is mandatory."}
+
         ]
       }
   ]
