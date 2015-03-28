@@ -1,78 +1,229 @@
 {
-  "part":[{
-        "title":"Part1 - 中2レベル1",
-        "exercises":[
-          {"question":"ボクと契約して、魔法少女になってよ!", "answer":"Make a contract with me, and become a Magical Girl!"},
-          {"question":"問おう。貴方が私のマスターか?", "answer":"I ask you. Are you my master?"},
-          {"question":"私はその幻想を壊そうと思います。", "answer":"I'll destroy the illusion of yours!"},
-          {"question":"今のはメラゾーマではありません。メラです。", "answer":"It is not Kafrizzle. It is my frizz."},
-          {"question":"パンツじゃないから恥ずかしくないもん！", "answer":"These are not panties. They are pants! No problem."},
-          {"question":"まったく、小学生は最高だぜ！", "answer":"Jeez, elementary kids are amazing!"},
-          {"question":"「見せよう」ガッツは静かに言う。「最高とは何なのか、を」", "answer":"I'll Show you,\"guts cool say, \"what is SAIKO.\""}
-          {"question":"まったく、小学生は最高だぜ！", "answer":"Jeez, elementary kids are amazing!"},
-          {"question":"さすがはお兄様です", "answer":"That's great as expected, my brother."},
-          {"question":"これは、ゲームであっても、遊びではない", "answer":"Even if this is a game, it is not play."}
-        ]
-      },
-      {
-        "title":"Part2 - 中2レベル2",
-        "exercises":[
-          {"question":"これはゾンビですか？　それとも魔法少女ですか？　はい。魔法少女です", "answer":"Is this a zombie or a magical girl?"},
-          {"question":"情けなさだけならグローバル級ね！", "answer":"Only your miserableness is world-class!"},
-          {"question":"完全にフルハウス", "answer":"It is perfectly \"Full House\"."},
-          {"question":"空のあれらは何ですか？　パンティーの群れです", "answer":"What are those in the sky? They are \"flying panties\"."},
-          {"question":"ジャッジメントですの！", "answer":"I am a \"Judgement\"."},
-          {"question":"もう、何も怖くない", "answer":"I'm not afraid of anything anymore."},
-          {"question":"ルカはとてもかわいい。だが、男だ。", "answer":"Ruka is very cute. But he is a man."},
-          {"question":"彼女はいつもにニコニコあなたの後ろに居ます", "answer":"She is always behind you with keeping smile."},
-          {"question":"「市民、幸福ですか？」「はい、私は完璧に幸福です」", "answer":"Citizen, are you happy? Yes, I am perfectly happy."},
-          {"question":"幸福なのは義務なんです♪", "answer":"Happiness is mandatory."}
-        ]
-      },
-      {
-        "title":"Part3 - 中2レベル3",
-        "exercises":[
-          {"question":"あぁー心がぴょんぴょんするんじゃーっ", "answer":"Ah＾ My Mind is hopping."},
-          {"question":"そんなのないよ。あり得えません", "answer":"It does not exist. No way."},
-          {"question":"特技は肉を削ぎ落とすことです", "answer":"My special ability is to slice off a meat."},
-          {"question":"彼女は私の二次元嫁です。いいえ、私のです。", "answer":"She is Mai Waifu. No. she is mine."},
-          {"question":"「誰だ貴様！？」「とっくにご存知なんだろう？」", "answer":"\"Who are you?\" \"You already know don't you?\""},
-          {"question":"別にあれを倒してしまっても構わんのだろう？", "answer":"It doesn’t matter if I defeat that one?"},
-          {"question":"その金ピカの男はたくさんの宝を持っている", "answer":"The gold man has many treasures."},
-          {"question":"ホモが嫌いな女子なんかいません", "answer":"No woman doesn't like gay men!"},
-          {"question":"あなたのサーヴァントは武器をいくつ持っていますか？", "answer":"How many weapons dose your servant have?"},
-          {"question":"今期の彼の嫁は何人ですか？", "answer":"How many waifu does he have in this season?"}
-        ]
-      },
-      {
-        "title":"Part4 - 中2レベル4",
-        "exercises":[
-          {"question":"彼の借金はいくらですか？ 150億円です。", "answer":"How much is his debts?  It is 150 million yen."},
-          {"question":"イメージしろ！", "answer":"Picture it."},
-          {"question":"「我のものとなれ、勇者よ！」「断る！」", "answer":"\"Become mine. HERO!\" \"I refuse!\""},
-          {"question":"静まれ、俺の右腕よ。", "answer":"Calm down my right hand."},
-          {"question":"お前の勝手なイメージを押し付けるな！", "answer":"Don't push your personal images on me."},
-          {"question":"パパのいうことを聞きなさい！", "answer":"Listen to me girls. I am your father!"},
-          {"question":"ボクと契約して、魔法少女になってよ！", "answer":"Make a contract with me, and become a Magical Girl!"},
-          {"question":"ホモが嫌いな女子なんかいません", "answer":"No woman doesn't like gay men!"},
-          {"question":"金剛はどこの出身ですか？　イギリスでーす", "answer":"Where is Kongo from? She is from UK."},
-          {"question":"あきらめたらそこで試合終了ですよ…？", "answer":"When you give up, that's when the game is over."}
-        ]
-      },
-      {
-        "title":"Part5 - 中2レベル5",
-        "exercises":[
-          {"question":"クリスマスはいつですか？ 今年は中止しました。", "answer":"When is Christmas? It is cancel this year."},
-          {"question":"どの娘が好きなんですか？", "answer":"Which girls do you like?"},
-          {"question":"わけが分からないよ", "answer":"It makes no sense at all!"},
-          {"question":"さあ、海賊の時間だ！", "answer":"Come on. It's pirates time!"},
-          {"question":"あなたの兄は毎晩何時に狩りにいきますか？", "answer":"What time dose your brother have a hunt every evening?"},
-          {"question":"「ごきげんよう」「ごきげんよう、お姉さま」", "answer":"\"How are you?\" \"I'm fine. Thanks, big sister.\""},
-          {"question":"「あなたは何歳ですか？」「17歳です♪」「おいおい」", "answer":"How old are you? I am saventeen years old. \"Are you joking?\""},
-          {"question":"あなたの戦闘力はいくらですか？", "answer":"How much your power is? It is five hundred thirty thousand."},
-          {"question":"俺の妹がこんなに可愛いわけがない", "answer":"My little sister can't be this cute!"},
-          {"question":"そうそう！も～っと私に頼っていいのよ！", "answer":"Yes, you can count on me more and more!"}
-        ]
-      }
-  ]
+    "part": [
+        {
+            "title": "Part1 - 中2レベル1",
+            "exercises": [
+                {
+                    "question": "ボクと契約して、魔法少女になってよ!",
+                    "answer": "Make a contract with me, and become a Magical Girl!"
+                },
+                {
+                    "question": "問おう。貴方が私のマスターか?",
+                    "answer": "I ask you. Are you my master?"
+                },
+                {
+                    "question": "私はその幻想を壊そうと思います。",
+                    "answer": "I'll destroy the illusion of yours!"
+                },
+                {
+                    "question": "今のはメラゾーマではありません。メラです。",
+                    "answer": "It is not Kafrizzle. It is my frizz."
+                },
+                {
+                    "question": "パンツじゃないから恥ずかしくないもん！",
+                    "answer": "These are not panties. They are pants! No problem."
+                },
+                {
+                    "question": "まったく、小学生は最高だぜ！",
+                    "answer": "Jeez, elementary kids are amazing!"
+                },
+                {
+                    "question": "「見せよう」ガッツは静かに言う。「最高とは何なのか、を」",
+                    "answer": "I'll Show you,\"guts cool say, \"what is SAIKO.\""
+                },
+                {
+                    "question": "まったく、小学生は最高だぜ！",
+                    "answer": "Jeez, elementary kids are amazing!"
+                },
+                {
+                    "question": "さすがはお兄様です",
+                    "answer": "That's great as expected, my brother."
+                },
+                {
+                    "question": "これは、ゲームであっても、遊びではない",
+                    "answer": "Even if this is a game, it is not play."
+                }
+            ]
+        },
+        {
+            "title": "Part2 - 中2レベル2",
+            "exercises": [
+                {
+                    "question": "これはゾンビですか？　それとも魔法少女ですか？　はい。魔法少女です",
+                    "answer": "Is this a zombie or a magical girl?"
+                },
+                {
+                    "question": "情けなさだけならグローバル級ね！",
+                    "answer": "Only your miserableness is world-class!"
+                },
+                {
+                    "question": "完全にフルハウス",
+                    "answer": "It is perfectly \"Full House\"."
+                },
+                {
+                    "question": "空のあれらは何ですか？　パンティーの群れです",
+                    "answer": "What are those in the sky? They are \"flying panties\"."
+                },
+                {
+                    "question": "ジャッジメントですの！",
+                    "answer": "I am a \"Judgement\"."
+                },
+                {
+                    "question": "もう、何も怖くない",
+                    "answer": "I'm not afraid of anything anymore."
+                },
+                {
+                    "question": "ルカはとてもかわいい。だが、男だ。",
+                    "answer": "Ruka is very cute. But he is a man."
+                },
+                {
+                    "question": "彼女はいつもにニコニコあなたの後ろに居ます",
+                    "answer": "She is always behind you with keeping smile."
+                },
+                {
+                    "question": "「市民、幸福ですか？」「はい、私は完璧に幸福です」",
+                    "answer": "Citizen, are you happy? Yes, I am perfectly happy."
+                },
+                {
+                    "question": "幸福なのは義務なんです♪",
+                    "answer": "Happiness is mandatory."
+                }
+            ]
+        },
+        {
+            "title": "Part3 - 中2レベル3",
+            "exercises": [
+                {
+                    "question": "あぁー心がぴょんぴょんするんじゃーっ",
+                    "answer": "Ah＾ My Mind is hopping."
+                },
+                {
+                    "question": "そんなのないよ。あり得えません",
+                    "answer": "It does not exist. No way."
+                },
+                {
+                    "question": "特技は肉を削ぎ落とすことです",
+                    "answer": "My special ability is to slice off a meat."
+                },
+                {
+                    "question": "彼女は私の二次元嫁です。いいえ、私のです。",
+                    "answer": "She is Mai Waifu. No. she is mine."
+                },
+                {
+                    "question": "「誰だ貴様！？」「とっくにご存知なんだろう？」",
+                    "answer": "\"Who are you?\" \"You already know don't you?\""
+                },
+                {
+                    "question": "別にあれを倒してしまっても構わんのだろう？",
+                    "answer": "It doesn’t matter if I defeat that one?"
+                },
+                {
+                    "question": "その金ピカの男はたくさんの宝を持っている",
+                    "answer": "The gold man has many treasures."
+                },
+                {
+                    "question": "ホモが嫌いな女子なんかいません",
+                    "answer": "No woman doesn't like gay men!"
+                },
+                {
+                    "question": "あなたのサーヴァントは武器をいくつ持っていますか？",
+                    "answer": "How many weapons dose your servant have?"
+                },
+                {
+                    "question": "今期の彼の嫁は何人ですか？",
+                    "answer": "How many waifu does he have in this season?"
+                }
+            ]
+        },
+        {
+            "title": "Part4 - 中2レベル4",
+            "exercises": [
+                {
+                    "question": "彼の借金はいくらですか？ 150億円です。",
+                    "answer": "How much is his debts?  It is 150 million yen."
+                },
+                {
+                    "question": "イメージしろ！",
+                    "answer": "Picture it."
+                },
+                {
+                    "question": "「我のものとなれ、勇者よ！」「断る！」",
+                    "answer": "\"Become mine. HERO!\" \"I refuse!\""
+                },
+                {
+                    "question": "静まれ、俺の右腕よ。",
+                    "answer": "Calm down my right hand."
+                },
+                {
+                    "question": "お前の勝手なイメージを押し付けるな！",
+                    "answer": "Don't push your personal images on me."
+                },
+                {
+                    "question": "パパのいうことを聞きなさい！",
+                    "answer": "Listen to me girls. I am your father!"
+                },
+                {
+                    "question": "ボクと契約して、魔法少女になってよ！",
+                    "answer": "Make a contract with me, and become a Magical Girl!"
+                },
+                {
+                    "question": "ホモが嫌いな女子なんかいません",
+                    "answer": "No woman doesn't like gay men!"
+                },
+                {
+                    "question": "金剛はどこの出身ですか？　イギリスでーす",
+                    "answer": "Where is Kongo from? She is from UK."
+                },
+                {
+                    "question": "あきらめたらそこで試合終了ですよ…？",
+                    "answer": "When you give up, that's when the game is over."
+                }
+            ]
+        },
+        {
+            "title": "Part5 - 中2レベル5",
+            "exercises": [
+                {
+                    "question": "クリスマスはいつですか？ 今年は中止しました。",
+                    "answer": "When is Christmas? It is cancel this year."
+                },
+                {
+                    "question": "どの娘が好きなんですか？",
+                    "answer": "Which girls do you like?"
+                },
+                {
+                    "question": "わけが分からないよ",
+                    "answer": "It makes no sense at all!"
+                },
+                {
+                    "question": "さあ、海賊の時間だ！",
+                    "answer": "Come on. It's pirates time!"
+                },
+                {
+                    "question": "あなたの兄は毎晩何時に狩りにいきますか？",
+                    "answer": "What time dose your brother have a hunt every evening?"
+                },
+                {
+                    "question": "「ごきげんよう」「ごきげんよう、お姉さま」",
+                    "answer": "\"How are you?\" \"I'm fine. Thanks, big sister.\""
+                },
+                {
+                    "question": "「あなたは何歳ですか？」「17歳です♪」「おいおい」",
+                    "answer": "How old are you? I am saventeen years old. \"Are you joking?\""
+                },
+                {
+                    "question": "あなたの戦闘力はいくらですか？",
+                    "answer": "How much your power is? It is five hundred thirty thousand."
+                },
+                {
+                    "question": "俺の妹がこんなに可愛いわけがない",
+                    "answer": "My little sister can't be this cute!"
+                },
+                {
+                    "question": "そうそう！も～っと私に頼っていいのよ！",
+                    "answer": "Yes, you can count on me more and more!"
+                }
+            ]
+        }
+    ]
 }
