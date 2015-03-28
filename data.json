@@ -17,7 +17,7 @@
       {
         "title":"Part2 - 中2レベル2",
         "exercises":[
-          {"question":"これはゾンビですか？　それとも魔法少女ですか？　はい。魔法少女です", "answer":"Is this a zombie or a magical girl? "}
+          {"question":"これはゾンビですか？　それとも魔法少女ですか？　はい。魔法少女です", "answer":"Is this a zombie or a magical girl? "},
           {"question":"情けなさだけならグローバル級ね！", "answer":"Only your miserableness is world-class!"},
           {"question":"完全にフルハウス", "answer":"It is perfectly \"Full House\"."},
           {"question":"空のあれらは何ですか？　パンティーの群れです", "answer":"What are those in the sky? They are \"flying panties\"."},
@@ -27,7 +27,21 @@
           {"question":"彼女はいつもにニコニコあなたの後ろに居ます", "answer":"She is always behind you with keeping smile."},
           {"question":"市民、幸福ですか？ はい、私は完璧に幸福です", "answer":"Citizen, are you happy? Yes, I am perfectly happy."},
           {"question":"幸福なのは義務なんです♪", "answer":"Happiness is mandatory."}
-
+        ]
+      },
+      {
+        "title":"Part3 - 中2レベル3",
+        "exercises":[
+          {"question":"これはゾンビですか？　それとも魔法少女ですか？　はい。魔法少女です", "answer":"Is this a zombie or a magical girl? "},
+          {"question":"情けなさだけならグローバル級ね！", "answer":"Only your miserableness is world-class!"},
+          {"question":"完全にフルハウス", "answer":"It is perfectly \"Full House\"."},
+          {"question":"空のあれらは何ですか？　パンティーの群れです", "answer":"What are those in the sky? They are \"flying panties\"."},
+          {"question":"ジャッジメントですの！", "answer":"I am a \"Judgement\"."},
+          {"question":"もう、何も怖くない", "answer":"I'm not afraid of anything anymore."},
+          {"question":"ルカはとてもかわいい。だが、男だ。", "answer":"Ruka is very cute. But he is a man."},
+          {"question":"彼女はいつもにニコニコあなたの後ろに居ます", "answer":"She is always behind you with keeping smile."},
+          {"question":"市民、幸福ですか？ はい、私は完璧に幸福です", "answer":"Citizen, are you happy? Yes, I am perfectly happy."},
+          {"question":"幸福なのは義務なんです♪", "answer":"Happiness is mandatory."}
         ]
       }
   ]
