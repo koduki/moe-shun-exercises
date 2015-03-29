@@ -32,8 +32,8 @@
                     "answer": "I'll Show you,\"guts cool say, \"what is SAIKO.\""
                 },
                 {
-                    "question": "まったく、小学生は最高だぜ！",
-                    "answer": "Jeez, elementary kids are amazing!"
+                    "question": "何故そこで愛！？",
+                    "answer": "Why do you say \"Love\" now?!"
                 },
                 {
                     "question": "さすがはお兄様です",
@@ -171,8 +171,8 @@
                     "answer": "No woman doesn't like gay men!"
                 },
                 {
-                    "question": "金剛はどこの出身ですか？　イギリスでーす",
-                    "answer": "Where is Kongo from? She is from UK."
+                    "question": "「あなたはどこの出身ですか？」「私は、英国出身デース！」",
+                    "answer": "\"Where are you from?\" \"I am from UK.\""
                 },
                 {
                     "question": "あきらめたらそこで試合終了ですよ…？",
@@ -222,6 +222,141 @@
                 {
                     "question": "そうそう！も～っと私に頼っていいのよ！",
                     "answer": "Yes, you can count on me more and more!"
+                }
+            ]
+        },
+        {
+            "title": "Part6 - 中2レベル6",
+            "exercises": [
+                {
+                    "question": "あなたはサバンナで同じことを言うことが出来ますか？",
+                    "answer": "Can you say the same thing in the Savanna?"
+                },
+                {
+                    "question": "このアニメには男性が１人も居ません",
+                    "answer": "There aren't any boys in this anime."
+                },
+                {
+                    "question": "分かったわ。あなたは私の敵ね。",
+                    "answer": "I got it. you are my rival!"
+                },
+                {
+                    "question": "くおえうえーーーるえうおおお",
+                    "answer": "I am Chloe Lemaire."
+                },
+                {
+                    "question": "ここって田舎なのん？",
+                    "answer": "Is this the country?"
+                },
+                {
+                    "question": "夏がくると沢山の人がコミケに行く",
+                    "answer": "When summer comes, many people go to the Comic Market."
+                },
+                {
+                    "question": "「その少女は成長して、何になりましたか？」 「魔女になりました」",
+                    "answer": "\"What did the girl become when she grew up?\" \"She became a witch.\""
+                },
+                {
+                    "question": "彼女は毎年2月27日に17歳になります",
+                    "answer": "She will be seventeen years old in February 28th every year."
+                },
+                {
+                    "question": "私が眠るとみんな死んじゃう",
+                    "answer": "If I sleep, everyone will die."
+                },
+                {
+                    "question": "「パワーをメテオに!」「いいですとも!」",
+                    "answer": "\"Will you give your power to meteor please.\" \"Sure.\""
+                }
+            ]
+        },
+        {
+            "title": "Part7 - 中2レベル7",
+            "exercises": [
+                {
+                    "question": "「僕にもゲームをかしてくれない？」 「悪いな。このゲーム、３人用なんだ」",
+                    "answer": "\"Will you lend me your game please?\" \"I'm sorry. This is only for three persons.\""
+                },
+                {
+                    "question": "主人公は幼馴染によって起こされなければなりません。",
+                    "answer": "The main character must be waked up by childhood friend."
+                },
+                {
+                    "question": "多くの場合、アニメの学生は戦わなくてはならない。",
+                    "answer": "In many case, anime students have to battle."
+                },
+                {
+                    "question": "世界線を超えることはとても難しい",
+                    "answer": "It is very difficult to go over world line"
+                },
+                {
+                    "question": "サラマンダーより、ずっとはやい!!",
+                    "answer": "This is much faster than the salamander."
+                },
+                {
+                    "question": "夏がくると沢山の人がコミケに行く",
+                    "answer": "When summer comes, many people go to the Comic Market."
+                },
+                {
+                    "question": "「そんな装備で大丈夫か？」 「一番いいのを頼む」",
+                    "answer": "\"You sure that's enough armor?\" \"I'll take the best you have.\""
+                },
+                {
+                    "question": "健康は命より大切です",
+                    "answer": "Health is more important than life."
+                },
+                {
+                    "question": "彼らは彼女に「世界一かわいいよ！」と言った",
+                    "answer": "They said \"You are the most cute in the world.\" to her."
+                },
+                {
+                    "question": "あなたは今までに何枚のパンを食べたか思い出すことができますか？",
+                    "answer": "Can you remember how many slices of bread you have eaten until now?"
+                }
+            ]
+        },
+        {
+            "title": "Part8 - 中2レベル8",
+            "exercises": [
+                {
+                    "question": "一億年と二千年前から愛しています",
+                    "answer": "I have loved you since one hundred million and two thousand years ago."
+                },
+                {
+                    "question": "お兄ちゃんだけど愛さえあれば関係ないよねっ",
+                    "answer": "If I love him, it is no problem that he is my brother, isn't it?"
+                },
+                {
+                    "question": "ただしイケメンに限る",
+                    "answer": "However it is permitted for only handsome man."
+                },
+                {
+                    "question": "彼女は良い王であろうと努めています",
+                    "answer": "She is trying to be a good king."
+                },
+                {
+                    "question": "撃って良いのは撃たれる覚悟があるやつだけだ",
+                    "answer": "Don’t shoot it at people, unless you get to be a better shot."
+                },
+                {
+                    "question": "働きたくない。ぜったいに働きたくないでござる",
+                    "answer": "I don't want to work. I'd never want to work."
+                },
+                {
+                    "question": "彼女は運命に抗うために、何度も何度も同じ時間を繰り返します。",
+                    "answer": "She relives the same time over and over again to resist the fate."
+                },
+                {
+                    "question": "彼女は敵を倒すために絶唱を歌った。",
+                    "answer": "She sang the superb song to beat the enemy."
+                },
+                {
+                    "question": "彼女の歌は巨人たちを落ち着かせることができる。",
+                    "answer": "Her song is able to calm the giants down."
+                },
+                {
+                    "question": "彼女たちは歌うことで魔法を使うことができる。",
+                    "answer": "They can use magic by singing songs."
                 }
             ]
         }
