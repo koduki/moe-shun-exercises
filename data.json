@@ -49,8 +49,8 @@
             "title": "Part2 - 中2レベル2",
             "exercises": [
                 {
-                    "question": "これはゾンビですか？　それとも魔法少女ですか？　はい。魔法少女です",
-                    "answer": "Is this a zombie or a magical girl?"
+                    "question": "「これはゾンビですか？　それとも魔法少女ですか？」「はい。魔法少女です」",
+                    "answer": "\"Is this a zombie or a magical girl? Yes.\" \"It is a magical girl\""
                 },
                 {
                     "question": "情けなさだけならグローバル級ね！",
@@ -61,7 +61,7 @@
                     "answer": "It is perfectly \"Full House\"."
                 },
                 {
-                    "question": "空のあれらは何ですか？　パンティーの群れです",
+                    "question": "「空のあれらは何ですか？」「パンティーの群れです」",
                     "answer": "What are those in the sky? They are \"flying panties\"."
                 },
                 {
@@ -82,7 +82,7 @@
                 },
                 {
                     "question": "「市民、幸福ですか？」「はい、私は完璧に幸福です」",
-                    "answer": "Citizen, are you happy? Yes, I am perfectly happy."
+                    "answer": "\"Citizen, are you happy?\" \"Yes, I am perfectly happy.\""
                 },
                 {
                     "question": "幸福なのは義務なんです♪",
@@ -106,12 +106,12 @@
                     "answer": "My special ability is to slice off a meat."
                 },
                 {
-                    "question": "彼女は私の二次元嫁です。いいえ、私のです。",
-                    "answer": "She is Mai Waifu. No. she is mine."
+                    "question": "「彼女は私の二次元嫁です。」「いいえ、私のです。」",
+                    "answer": "\"She is Mai Waifu.\" \"No, she is mine.\""
                 },
                 {
                     "question": "「誰だ貴様！？」「とっくにご存知なんだろう？」",
-                    "answer": "\"Who are you?\" \"You already know don't you?\""
+                    "answer": "\"Who are you?\" \"You already know, don't you?\""
                 },
                 {
                     "question": "別にあれを倒してしまっても構わんのだろう？",
@@ -139,8 +139,8 @@
             "title": "Part4 - 中2レベル4",
             "exercises": [
                 {
-                    "question": "彼の借金はいくらですか？ 150億円です。",
-                    "answer": "How much is his debts?  It is 150 million yen."
+                    "question": "この中に１人妹がいる！",
+                    "answer": "There is a sister in this members."
                 },
                 {
                     "question": "イメージしろ！",
@@ -148,7 +148,7 @@
                 },
                 {
                     "question": "「我のものとなれ、勇者よ！」「断る！」",
-                    "answer": "\"Become mine. HERO!\" \"I refuse!\""
+                    "answer": "\"Become mine, HERO!\" \"I refuse!\""
                 },
                 {
                     "question": "静まれ、俺の右腕よ。",
@@ -167,8 +167,8 @@
                     "answer": "Make a contract with me, and become a Magical Girl!"
                 },
                 {
-                    "question": "ホモが嫌いな女子なんかいません",
-                    "answer": "No woman doesn't like gay men!"
+                    "question": "その緑の髪の少女はとても上手に歌を歌う",
+                    "answer": "The girl of the green hair sings songs very well."
                 },
                 {
                     "question": "「あなたはどこの出身ですか？」「私は、英国出身デース！」",
@@ -176,7 +176,7 @@
                 },
                 {
                     "question": "あきらめたらそこで試合終了ですよ…？",
-                    "answer": "When you give up, that's when the game is over."
+                    "answer": "When you give up, that's time when the game is over."
                 }
             ]
         },
@@ -209,11 +209,11 @@
                 },
                 {
                     "question": "「あなたは何歳ですか？」「17歳です♪」「おいおい」",
-                    "answer": "How old are you? I am saventeen years old. \"Are you joking?\""
+                    "answer": "\"How old are you?\" \"I am saventeen years old.\" \"Are you joking?\""
                 },
                 {
-                    "question": "あなたの戦闘力はいくらですか？",
-                    "answer": "How much your power is? It is five hundred thirty thousand."
+                    "question": "「あなたの戦闘力はいくらですか？」「５３万です」",
+                    "answer": "\"How much your power is?\" \"It is five hundred thirty thousand.\""
                 },
                 {
                     "question": "俺の妹がこんなに可愛いわけがない",
@@ -234,7 +234,7 @@
                 },
                 {
                     "question": "このアニメには男性が１人も居ません",
-                    "answer": "There aren't any boys in this anime."
+                    "answer": "There aren't any men in this anime."
                 },
                 {
                     "question": "分かったわ。あなたは私の敵ね。",
@@ -324,7 +324,7 @@
                 },
                 {
                     "question": "お兄ちゃんだけど愛さえあれば関係ないよねっ",
-                    "answer": "If I love him, it is no problem that he is my brother, isn't it?"
+                    "answer": "As I love him, it is no problem that he is my brother, isn't it?"
                 },
                 {
                     "question": "ただしイケメンに限る",
@@ -357,6 +357,51 @@
                 {
                     "question": "彼女たちは歌うことで魔法を使うことができる。",
                     "answer": "They can use magic by singing songs."
+                }
+            ]
+        },
+        {
+            "title": "Part9 - 中2レベル9",
+            "exercises": [
+                {
+                    "question": "何故かわからないが、最近の若者は戦艦に詳しい。",
+                    "answer": "I don't know why, but recently young people are familiar with battleships."
+                },
+                {
+                    "question": "駆逐してやる この世から・・・一匹・・・残らず。",
+                    "answer": "I'll eradicate every single one of them from the world."
+                },
+                {
+                    "question": "彼は前世を思い出すたびに強くなります。",
+                    "answer": "He becomes more stronger when he remember his past life."
+                },
+                {
+                    "question": "これらの動画を見るとき、彼らはいつも歌詞を聞き間違える。",
+                    "answer": "They always make a mistake in lyrics when they watch these anime."
+                },
+                {
+                    "question": "このアニメを見たので、私は自転車のサドルの高さを変えました。",
+                    "answer": "I changed the height of the saddle of a bicycle because I watched this anime."
+                },
+                {
+                    "question": "リンはレンと同じくらいの背の高さです。",
+                    "answer": "Rin is as tall as Ren."
+                },
+                {
+                    "question": "煩わしい太陽ね。",
+                    "answer": "Good morning."
+                },
+                {
+                    "question": "七つの大罪は聖騎士だったり、トリニティセブンだったり忙しい。",
+                    "answer": "Seven deadly sins are very busy to become holy knights, Trinity Seven, and so on."
+                },
+                {
+                    "question": "彼女たちは探偵というより農家に見えます。",
+                    "answer": "They looks like rather a farmer than a detective."
+                },
+                {
+                    "question": "",
+                    "answer": "\"Would you like to get into a two-dimension world?\" \"I'd love to.\""
                 }
             ]
         }
